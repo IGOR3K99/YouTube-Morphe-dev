@@ -14,5 +14,6 @@ patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 build-mode = "apk"
 rv-brand = "Morphe"          # eindeutiger Release-Name für Morphe-YouTube
+version = "21.03.34"
 included-patches = "'Change package name'"
 patcher-args = "-e 'Change package name' -0packageName=com.kugou.viper"
