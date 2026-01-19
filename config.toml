@@ -11,9 +11,11 @@ parallel-jobs = 1
 [YouTube-Morphe]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "MorpheApp/morphe-patches"
+patches-version = "dev"
 cli-source = "MorpheApp/morphe-cli"
+cli-version = "dev"
 build-mode = "apk"
 rv-brand = "Morphe"          # eindeutiger Release-Name für Morphe-YouTube
 version = "21.03.34"
 included-patches = "'Change package name'"
-patcher-args = "-e 'Change package name' -0packageName=com.kugou.viper"
+patcher-args = "-0packageName=com.kugou.viper"
