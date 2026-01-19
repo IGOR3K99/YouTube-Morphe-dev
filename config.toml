@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 
 #Morphe
-[YouTube-Morphe]
+[YouTube-Morphe-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "MorpheApp/morphe-patches"
 patches-version = "dev"
