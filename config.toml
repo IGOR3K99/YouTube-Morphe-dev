@@ -12,7 +12,7 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
-build-mode = "both"
+build-mode = "apk"
 rv-brand = "Morphe"          # eindeutiger Release-Name für Morphe-YouTube
 included-patches = "Change package name"
 
