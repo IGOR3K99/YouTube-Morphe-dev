@@ -11,6 +11,7 @@ parallel-jobs = 1
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/youtube_20260122"
 patches-source = "MorpheApp/morphe-patches"
 patches-version = "dev"
 cli-source = "MorpheApp/morphe-cli"
